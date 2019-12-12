@@ -1,6 +1,11 @@
 Here is the collection of OpenFlow 1.3 rulesets used for evaluation.
 The rulesets are a pickled list of ryu rules and are compressed in some cases.
 
+### Faucet directory
+
+[Faucet](faucet) contains the real-world rulesets captured from a Faucet
+deployment.
+
 ### Scripts directory
 The scripts directory contains the scripts which generate these rulesets.
 
